@@ -1,0 +1,6 @@
+{
+  "name": "IGCSE & A-Level Hub",
+  "description": "Comprehensive revision notes, lessons, interactive exercises, past papers, and live syllabus code alerts for IGCSE, AS and A Level students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
